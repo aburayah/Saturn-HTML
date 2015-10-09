@@ -18,12 +18,13 @@ Fonts
 Images
 http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
 ******************************/
-*{font-family:  "Helvetica Neue", Calibri, Verdana, sans-serif;
+*{font-family:  "Helvetica Neue", "Calibri"," Verdana", sans-serif;
 	text shadows :#000;
     padding:0px ;
     margin-left: 30px;
 	margin-right:30px;
     box-sizing: border-box;
+	color: #d4d4d4;
 }
 html, body{background:  #222;
     font-size: 3vh; /* default font-size = 1.0rem */
@@ -65,7 +66,7 @@ nav li{display: inline;
 }
 #wrapper{ background: #555;
 	color:#fff;
-
+	
 }
 #masthead{border:#666; color:#eee; text-align: center;
 	background-image: url("http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg");
